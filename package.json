@@ -1,12 +1,12 @@
 {
-  "name": "template-nm",
-  "version": "0.12.2",
+  "name": "sao-template-nm",
+  "version": "0.0.2",
   "description": "Scaffolding out a node module.",
   "repository": {
-    "url": "EGOIST/template-nm",
+    "url": "geekplux/sao-template-nm",
     "type": "git"
   },
-  "author": "EGOIST <0x142857@gmail.com>",
+  "author": "geekplux <geekplux@gmail.com>",
   "license": "MIT",
   "files": [
     "sao.js",

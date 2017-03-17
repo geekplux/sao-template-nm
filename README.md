@@ -6,6 +6,11 @@
 
 <img src="./media/preview.png" alt="preview">
 
+
+## sao-template-nm
+
+A copy of [template-nm](https://github.com/egoist/template-nm), but for geekplux.
+
 ## Features
 
 - Unit test with [jest](https://facebook.github.io/jest/)
@@ -21,15 +26,9 @@ Install [SAO](https://github.com/egoist/sao) first.
 ### From git
 
 ```bash
-sao egoist/template-nm
-```
-
-### From npm
-
-```bash
-sao nm
+sao geekplux/sao-template-nm
 ```
 
 ## License
 
-MIT &copy; EGOIST
+MIT &copy; GeekPlux
